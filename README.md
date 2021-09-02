@@ -5,7 +5,7 @@
 <div>
    <a href="https://github.com/Moises-Paz/Moises-Paz">
    <img height="180em"src="https://github-readme-stats.vercel.app/api?username=Moises-Paz&show_icons=true&theme=midnight-purple"/>
-   <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Moises-Paz&layout=compact&theme=midnight-purple"/>
+   <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Moises-Paz&layout=compact&theme=midnight-purple"/>
 </div>
  
 <div>
