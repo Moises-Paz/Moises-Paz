@@ -18,4 +18,4 @@
    <a href="">
 </div>
 
-![Snake animation](https://github.com/rafaballerini/Moises-Paz/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/Moises-paz/Moises-Paz/blob/output/github-contribution-grid-snake.svg)
